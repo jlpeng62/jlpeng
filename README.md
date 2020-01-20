@@ -1,6 +1,5 @@
 # James Peng
 https://jlpeng62.github.io/jlpeng/
-#
 This is my public portfolio for the Telling Stories with Data course at Carnegie Mellon! You can reach me at jlpeng@tepper.cmu.edu
 
 # About Me
