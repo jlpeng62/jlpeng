@@ -8,3 +8,5 @@ Hello! My name is James Peng (he/him/his) and I am currently a second year MBA s
 I hope to learn how to create meaningful, unbiased, and intuitive data visualizations upon completion of this course.
 
 # Portfolio
+[OECD Data Viz](/OECDviz.md)
+
