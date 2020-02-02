@@ -1,5 +1,6 @@
 # The Original Data Visualization
 https://informationisbeautiful.net/beautifulnews/1025-generous-countries/
+
 <a href="https://informationisbeautiful.net/beautifulnews/1025-generous-countries" target="_blank"><img style="height:300px;width:auto;" src="https://s3.amazonaws.com/infobeautiful-bnews/images/1025/1025-generous-countries.svg" alt="Some of the World’s Poorest Nations Are Also the Most Generous " /></a>
 
 The data itself was really interesting to me because one would assume that richer, developed nations would be more generous than their poorer, developing counterparts. The title stood out to me (immediate attention grabber) as well as the quadrant format with Generosity on the y-axis and Wealth on the x-axis, which made it very easy to read and understand which quadrant to focus on (poor & generous). 
