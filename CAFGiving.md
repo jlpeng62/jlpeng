@@ -1,4 +1,5 @@
 # The Original Data Visualization
+https://informationisbeautiful.net/beautifulnews/1025-generous-countries/
 <a href="https://informationisbeautiful.net/beautifulnews/1025-generous-countries" target="_blank"><img style="height:300px;width:auto;" src="https://s3.amazonaws.com/infobeautiful-bnews/images/1025/1025-generous-countries.svg" alt="Some of the World’s Poorest Nations Are Also the Most Generous " /></a>
 
 The data itself was really interesting to me because one would assume that richer, developed nations would be more generous than their poorer, developing counterparts. The title stood out to me (immediate attention grabber) as well as the quadrant format with Generosity on the y-axis and Wealth on the x-axis, which made it very easy to read and understand which quadrant to focus on (poor & generous). 
@@ -16,4 +17,4 @@ After the critique, I knew how I wanted to redesign the graphic. I began to wire
 While they both understood what I was trying to communicate with both wireframes (moreso than when they saw the original graphic because I added a clearer title and caption to both wireframes), the packed bubbles visualization was ultimately too overwhelming to take in. It did not motivate the reader to explore the visualization and understand the data behind it. Rather, it motivated them to just believe what the title was telling them and move on. Furthermore, because the size of each bubble represented CAF giving (the more generous the country the bigger the bubble), I had to use colors to indicate GDP per capita or "wealth." This ultimately added to the confusion and frustration. The scatter plot worked better because it was less invasive and more interesting. Due to the amount of white space and small size of each dot, I was able to add colors more effectively. They both wanted to understand what factors if not wealth lead to generosity -- Culture? Religion? 
 
 # The Redesign
-
+https://imgur.com/a/QAhUenG
