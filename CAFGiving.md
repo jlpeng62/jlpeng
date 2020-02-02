@@ -1,0 +1,1 @@
+<a href="https://informationisbeautiful.net/beautifulnews/1025-generous-countries" target="_blank"><img style="height:300px;width:auto;" src="https://s3.amazonaws.com/infobeautiful-bnews/images/1025/1025-generous-countries.svg" alt="Some of the World’s Poorest Nations Are Also the Most Generous " /></a>
