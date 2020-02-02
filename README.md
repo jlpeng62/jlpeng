@@ -9,5 +9,6 @@ I hope to learn how to create meaningful, unbiased, and intuitive data visualiza
 
 # Portfolio
 [OECD Data Viz](/OECDviz.md)
-[CAF Giving Around the World Data Viz](/CAFgiving.md)
+
+[CAF Giving Around the World Data Viz](/CAFGiving.md)
 
