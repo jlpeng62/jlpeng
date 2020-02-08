@@ -7,4 +7,13 @@ I would like to begin the story in a lighthearded and fun way, highlighting the 
 # User Story
 As a reader, I want to avoid buying blood avocados so that I can continue enjoying the fruit but in an ethical and sustainable way.
 
-# 
+# The Data
+https://hassavocadoboard.com/category-data/?region=Total+U.S.&y=2019
+
+The data represents weekly retail scan data for national retail volume (units) and price. Retail scan data comes directly from retailers’ cash registers based on actual retail sales of Hass avocados. The data reflects an expanded, multi-outlet retail data set. Multi-outlet reporting includes an aggregation of the following channels: grocery, mass, club, drug, dollar and military. The Average Price (of avocados) in the table reflects a per unit (per avocado) cost, even when multiple units (avocados) are sold in bags. The Product Lookup codes (PLU’s) in the table are only for Hass avocados. Other varieties of avocados (e.g. greenskins) are not included in this data.
+
+# About Haas Avocado Board (HAB)
+HAB provides the industry with consolidated supply and market data, conducts nutrition research, educates health professionals, and brings people together from all corners of the industry to collectively work towards growth that benefits everyone. The organization also collects and reallocates funds to California and importer associations to benefit specific countries of origin in promoting their avocado brands to customers and consumers across the United States.
+
+# Method & Medium
+I plan to build a story with Shorthand. I have never used it before and am looking forward to learning a new platform.
