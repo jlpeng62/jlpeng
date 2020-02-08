@@ -19,7 +19,7 @@ As a reader, I want to avoid buying blood avocados so that I can continue enjoyi
 
 # Initial Sketches
 https://imgur.com/QlwC2hc
-![Sketch]https://imgur.com/QlwC2hc)
+![Sketch](https://imgur.com/QlwC2hc)
 
 # The Data
 https://hassavocadoboard.com/category-data/?region=Total+U.S.&y=2019
