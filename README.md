@@ -12,3 +12,4 @@ I hope to learn how to create meaningful, unbiased, and intuitive data visualiza
 
 [CAF Giving Around the World Data Viz](/CAFGiving.md)
 
+[Final Project: Blood Avocados](/final_project_jamespeng.md)
