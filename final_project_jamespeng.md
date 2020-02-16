@@ -36,3 +36,19 @@ HAB provides the industry with consolidated supply and market data, conducts nut
 
 # Method & Medium
 I plan to build a story with Shorthand. I have never used it before and am looking forward to learning a new platform.
+
+# Draft Storyboard
+
+
+# User Research Protocol & Testing
+Target Audience
+I hope to reach a wide audience with my story – avocado lovers. In order to see if my wire frames and overall story can influence an audience irrespective of gender, ethnicity, and/or other socioeconomic factors, I need to identify and interview very different individuals. While my business school classmates (domestic and international) come from a variety of backgrounds and experiences, I would still consider them a similar or like-minded user segment. For this reason, out of my three interviews, I want to ensure that one of them does not attend business school. For the other two interviews, I will ask one international student and one domestic student, both of whom are pursuing different post MBA career paths and will hopefully provide different perspectives and critiques.
+
+Interview Script
+Intro: Hi, thank you again for agreeing to be a part of this user research. Your feedback and comments (no matter how big or small) will allow me to refine and structure my storyboard in a way that I would not have been able to do by myself.  I have prepared the following questions for you:
+Q1: How did you feel about the transitions (and overall story arc) from beginning to end?
+Q2: 
+Q3: What do you like about the call to action? What don’t you like? Why?
+
+
+# Final Storyboard
