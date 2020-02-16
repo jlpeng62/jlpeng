@@ -48,23 +48,35 @@ I hope to reach a wide audience with my story – avocado lovers. In order to se
 Interview Script
 
 Intro: Hi, thank you again for agreeing to be a part of this user research. Your feedback and comments (no matter how big or small) will allow me to refine and structure my storyboard in a way that I would not have been able to do by myself.  I have prepared the following questions for you:
+
 Q1: How did you feel about the transitions (and overall story arc) from beginning to end?
+
 Q2: Is there anything else you wish you knew? Were the data visualizations clear and understandable? Did anything feel misleading?
+
 Q3: What do you like about the call to action? What don’t you like? Why?
 
 User 1: Female, 30, Designer, Professional
+
 A1: Flow made sense. All articles seem to be from the US so maybe add international headlines as well. Make it seem like a global problem. The ending felt a little abrupt. 
+
 A2: Visualizations made sense. Adding more labels would be helpful. Understanding why Mexico is such a huge grower is interesting.
+
 A3: Felt abrupt. What if there aren't any fairtrade avocados at Whole Foods? What should she do then?
 
 User 2: Male, 29, Product Manager, MBA Student
+
 A1: If I'm speaking to a US audience, I should only frame data with US perspective. US consumers can't change the actions of international consumers and vice versa. 
+
 A2: Article dates for the 'good' and 'bad' tables should align. It'll make the comparison much more effective/powerful (i.e. 'good' article in 2014 with 'bad' article in 2014). Use reliable sources. 
+
 A3: Liked it. Has never noticed or read the stickers on avocados before.
 
 User 3: Female, 24, PhD Sociology, Graduate Student
+
 A1: Wants to see more data on environmental impact. Could insert it after the 5th slide. 
+
 A2: This has been in the news for a while now so have we seen a decreased demand in avocados? Does the general population know about this? Is there data saying that people know but just don't care or is the problem rooted in the fact that people don't know period.
+
 A3: It'd be better if I included environmental considerations too. All these avocados must take a lot of land and water. People are complex and have different motivations so I should appeal to as many battlegrounds as I can.
 
 # Final Storyboard
