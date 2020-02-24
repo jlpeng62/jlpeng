@@ -35,7 +35,7 @@ The data represents weekly retail scan data for national retail volume (units) a
 HAB provides the industry with consolidated supply and market data, conducts nutrition research, educates health professionals, and brings people together from all corners of the industry to collectively work towards growth that benefits everyone. The organization also collects and reallocates funds to California and importer associations to benefit specific countries of origin in promoting their avocado brands to customers and consumers across the United States.
 
 # Method & Medium
-I plan to build a story with Shorthand. I have never used it before and am looking forward to learning a new platform.
+I plan to build a story with Canva.
 
 # Draft Storyboard
 https://imgur.com/a/UIa2llw
@@ -81,3 +81,18 @@ A3: It'd be better if I included environmental considerations too. All these avo
 
 # Final Storyboard
 https://imgur.com/a/POlxWeq
+
+# Final Thoughts
+My intended audience for my final data story are U.S. avocado lovers who have purchasing power (i.e. groceries, dining out). In order to narrow the focus, we can look at geographic areas of the U.S. that demand the most avocados. I have chosen to focus on areas with the highest growth in avocado sales year over year so that I can teach those consumers how to ethically consume avocados. According to the Hass Avocado Board, the top five markets are Miami/Ft. Lauderdale (+18.44%), Indianapolis (+10.54%), Tampa (10.27%), Charlotte (8.51%), and the Southeast (7.55%).
+
+I wanted to show my audience that while there are plenty of benefits (health, taste) to eating avocados, like everything else in the world, we must do so in a sustainable manner. Many people, myself included, are not aware of the dangerous situation that is evolving in Mexico right now, particularly within the Michoacan state (92% of total output).
+
+Throughout the design process, I wanted to show (1) the US' overwhelming demand (2) its overreliance on Mexico for avocado imports (3) price increases/trends and revenue potential for cartels and (4) where this will go in the future. Some considerations I needed to make were whether or not I wanted to use Tableau's forecasting feature (it projected negative volume for Chile & Peru so I decided to implement trend lines instead), to focus the story on the US or the world as a whole (Mexico is the #1 exporter in the entire world), if screenshots of news headlines could create the emotional effect I wanted to go for (including which headlines and the ordering), and finally which program to use (Tableau vs RAWGraphs). 
+
+The number one thing I learned from this process is the number of tradeoffs between choosing one visualization or another visualization. After a while, there was a certain amount of analysis paralysis where I felt I just needed to make a decision. This is where the user testing and validation was a huge factor to gauge whether or not the visualization did its job well. I would have loved to have data on violence & crime within the Michoacan state from 2015-2019 to position side-by-side with sales and volume data. 
+
+# Final Presentation (Canva)
+https://www.canva.com/design/DAD0s3TSFqM/mqt-9-bh-RUamsGBIwRbYA/view?utm_content=DAD0s3TSFqM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+# Data & Image References
+Data was taken from Hass Avocado Board (https://hassavocadoboard.com/growers/). All images were taken from photo sharing website Unsplash (https://unsplash.com/s/photos/avocado) and Google Image Search (Settings -> Advanced Search -> usage rights: free to use or share). 
